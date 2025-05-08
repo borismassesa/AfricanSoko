@@ -1,4 +1,4 @@
-import configPromise from @payload-config
+import configPromise from '@payload-config'
 import { getPayload } from 'payload'
 
 
@@ -13,6 +13,5 @@ export default async function Home() {
     <div>
       {JSON.stringify(data, null, 2)}
     </div>
-
   )
 }
