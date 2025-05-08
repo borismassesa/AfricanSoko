@@ -118,9 +118,6 @@ export const Navbar =() => {
                     <MenuIcon />
                 </Button>
             </div>
-
-            
-
         </nav>
     )
 }
