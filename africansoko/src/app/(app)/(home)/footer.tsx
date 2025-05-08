@@ -20,7 +20,7 @@ export const Footer = () => {
                             </span>
                         </Link>
                         <p className="mt-3 text-gray-600 text-sm">
-                            Connecting African artisans to global markets through authentic, handcrafted goods.
+                        Your Marketplace for Authentic African Goods.
                         </p>
                     </div>
                     
